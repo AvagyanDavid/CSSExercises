@@ -1,0 +1,25 @@
+.success {
+	color: green;
+    font-size: 30px;
+}
+.error {
+	color: red;
+    font-size: 20px;
+}
+.large {
+    color: red;
+	font-size: 30px;
+}
+.small {
+    color: green;
+	font-size: 20px;
+}
+.first{
+    color: blue;
+}
+.second{
+    font-style: Times New Roman;
+}
+.third{
+    font-size: 100px;
+}
