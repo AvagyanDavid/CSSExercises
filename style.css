@@ -1,9 +1,15 @@
-#elem1{
+#elem h2{
     color: red;
 }
-#elem2{
-    color: green;
-}
-#elem3{
+#elem2 .text{
     color: blue;
+    font-size: 100px;
+}
+#elem3 p.text{
+    color: green;
+    font-size: 40px;
+}
+#elem4 li.text{
+    color: orange;
+    font-size: 10px;
 }
